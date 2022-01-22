@@ -33,6 +33,12 @@ MANIFEST
 *.manifest
 *.spec
 
+# Hire unrelated files.
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.history
+.gitattributes
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
